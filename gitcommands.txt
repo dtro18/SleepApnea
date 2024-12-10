@@ -1,0 +1,10 @@
+get most recent copy
+git pull origin main
+
+after you made changes
+git add .
+git commit -m "commit message"
+
+sudo git push origin main
+login: hongqiul1014
+pass: insert from notes
