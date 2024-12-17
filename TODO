@@ -1,0 +1,4 @@
+- Decide what imageset to use
+    - Change to use oct1 for train and validation for validation
+- Figure out if augmentation is actually producing valid images and being utilized
+- See if restrain output to black/white would help
