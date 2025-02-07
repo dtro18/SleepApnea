@@ -1,6 +1,6 @@
 import os
 
-directory = r"D:\SleepApneaPtData\set_1_complete"
+directory = r"C:\SleepApnea\rotated_images_raw"
 # Assumes directory only contains images
 num = 0
 for dirpath, dirnames, filenames in os.walk(directory):

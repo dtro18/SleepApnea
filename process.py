@@ -45,8 +45,8 @@ def preprocess_image(image_path, output_folder="/set_1_masked/", intensity_thres
 # preprocess_image(r"D:\SleepApneaPtData\set_1_complete\Frame0000.bmp")
 
 
-working_directory = r"D:\SleepApneaPtData\set_1_complete"
-output_directory = r"D:\SleepApneaPtData\set_1_masked"
+working_directory = r"C:\SleepApnea\rotated_images_raw"
+output_directory = r"C:\SleepApnea\oct_processed_incomplete"
 # Assumes directory only contains images
 
 num = 0
