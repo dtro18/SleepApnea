@@ -1,0 +1,15 @@
+amira
+
+first:
+increase contrast/brightness
+- different
+crop around the boundary (must be square), size doesn't matter because we resize to 256
+second:
+write augmentation code
+- horiz flip, vertical flip, rotation 90, rotation 180, rotation 270 
+
+run unet model:
+0226 pt 4 t
+0212 pt 1 e
+0212 pt 1 t
+0212 pt 3 t

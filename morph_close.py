@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import os 
-def process_oct_image(image_path, kernel_size=100, iterations=5):
+def process_oct_image(image_path, kernel_size=30, iterations=5):
     """
     Process OCT image using morphological operations to close gaps
     and calculate area.
