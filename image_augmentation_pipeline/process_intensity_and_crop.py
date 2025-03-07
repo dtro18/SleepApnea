@@ -112,10 +112,10 @@ def auto_crop_image(image, min_contour_size=50, buffer=50):
     
     return [y_min, y_max, x_min, x_max]
 
-oct_directory = r"C:\SleepApnea\test_images"
-mask_directory = r"C:\SleepApnea\mask_images"
-oct_output_dir = r"C:\SleepApnea\oct_processed_output"
-msk_output_dir = r"C:\SleepApnea\mask_processed_output"
+oct_directory = r"C:\SleepApnea\trial1_421_images\oct_3_7"
+mask_directory = r"C:\SleepApnea\trial1_421_images\msk_3_7"
+oct_output_dir = r"C:\SleepApnea\trial1_421_images\oct_processed_imgs"
+msk_output_dir = r"C:\SleepApnea\trial1_421_images\msk_processed_imgs"
 
 
 oct_image_paths = []
